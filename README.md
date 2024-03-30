@@ -8,6 +8,7 @@ This project involves analyzing home sales data using PySpark, a Python library 
 Importing PySpark SQL Functions: Import necessary PySpark SQL functions for data analysis.
 
 Reading Data: Read the home sales data from home_sales_revised.csv into a Spark DataFrame.
+<img width="879" alt="Screenshot 2024-03-29 at 10 43 53 PM" src="https://github.com/Vfdelgado/Homes_Sales/assets/146504714/d41eeb0d-d966-4655-8824-303c4b9ab4cb">
 
 Creating Temporary Table: Create a temporary table called home_sales to perform SQL queries.
 
